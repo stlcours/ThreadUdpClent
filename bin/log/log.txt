@@ -1,0 +1,245 @@
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 08:40:27 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 08:40:36 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x50c058), parent's thread is QThread(0x471048), current thread is QThread(0x50a778)
+2019-05-30 08:40:38 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x50c058), parent's thread is QThread(0x471048), current thread is QThread(0x50a778)
+2019-05-30 08:40:39 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x50c058), parent's thread is QThread(0x471048), current thread is QThread(0x50a778)
+2019-05-30 08:40:39 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:40:39 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:40:39 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:40:39 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 08:41:46 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 08:49:22 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x50ff68), parent's thread is QThread(0x471268), current thread is QThread(0x50da88)
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 08:49:29 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 08:50:13 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 08:50:16 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x287ff68), parent's thread is QThread(0x27e1268), current thread is QThread(0x287da88)
+2019-05-30 08:50:17 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x287ff68), parent's thread is QThread(0x27e1268), current thread is QThread(0x287da88)
+2019-05-30 08:50:20 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x287ff68), parent's thread is QThread(0x27e1268), current thread is QThread(0x287da88)
+2019-05-30 08:50:21 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x287ff68), parent's thread is QThread(0x27e1268), current thread is QThread(0x287da88)
+2019-05-30 08:50:21 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:50:22 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:50:23 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 08:51:14 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 08:53:27 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 08:54:36 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 08:54:45 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x50d278), parent's thread is QThread(0x471048), current thread is QThread(0x50a998)
+2019-05-30 08:54:49 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x50d278), parent's thread is QThread(0x471048), current thread is QThread(0x50a998)
+2019-05-30 08:54:49 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:54:50 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:54:50 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:54:50 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/common.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/widget.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/button.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/sidebar.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/itemview.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/boxbar.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/slider.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/login.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:42, static void UiUtil::loadQss()): Error: Loading QSS file: resources/qss/TopWindow.qss failed
+2019-05-30 08:57:19 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 08:58:04 - [DEBUG] (Json.cpp:52, JsonPrivate::JsonPrivate(const QString&, bool)): "object is missing after a comma\nOffset: 353"
+2019-05-30 09:00:33 - [DEBUG] (Json.cpp:52, JsonPrivate::JsonPrivate(const QString&, bool)): "object is missing after a comma\nOffset: 353"
+2019-05-30 09:02:06 - [DEBUG] (Json.cpp:52, JsonPrivate::JsonPrivate(const QString&, bool)): "object is missing after a comma\nOffset: 353"
+2019-05-30 09:02:14 - [DEBUG] (Json.cpp:52, JsonPrivate::JsonPrivate(const QString&, bool)): "object is missing after a comma\nOffset: 353"
+2019-05-30 09:02:34 - [DEBUG] (Json.cpp:52, JsonPrivate::JsonPrivate(const QString&, bool)): "object is missing after a comma\nOffset: 353"
+2019-05-30 09:14:36 - [DEBUG] (Json.cpp:52, JsonPrivate::JsonPrivate(const QString&, bool)): "object is missing after a comma\nOffset: 353"
+2019-05-30 09:15:27 - [DEBUG] (Json.cpp:52, JsonPrivate::JsonPrivate(const QString&, bool)): "object is missing after a comma\nOffset: 353"
+2019-05-30 09:19:18 - [DEBUG] (Json.cpp:52, JsonPrivate::JsonPrivate(const QString&, bool)): "object is missing after a comma\nOffset: 353"
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:20:02 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:20:09 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:20:48 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:21:19 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:22:10 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:22:13 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x1baa170), parent's thread is QThread(0x1b11288), current thread is QThread(0x1ba6890)
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:22:24 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:22:28 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:25:03 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x2f2a170), parent's thread is QThread(0x2e91288), current thread is QThread(0x2f26890)
+2019-05-30 09:25:07 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x2f2a170), parent's thread is QThread(0x2e91288), current thread is QThread(0x2f26890)
+2019-05-30 09:25:10 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x2f2a170), parent's thread is QThread(0x2e91288), current thread is QThread(0x2f26890)
+2019-05-30 09:25:10 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 09:25:10 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 09:25:10 - [DEBUG] (ThreadSerial/work.hpp:22, void SerialPortWorker::doWrite(const QByteArray&)): write...ok
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:25:33 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: _font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:25:48 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x102d520), parent's thread is QThread(0xf91288), current thread is QThread(0x1029d48)
+2019-05-30 09:25:50 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x102d520), parent's thread is QThread(0xf91288), current thread is QThread(0x1029d48)
+2019-05-30 09:25:51 - [WARN ] (:0, ): QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QSerialPort(0x102d520), parent's thread is QThread(0xf91288), current thread is QThread(0x1029d48)
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:26:21 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: _font/云书法手书罗西硬笔行楷.ttf
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/common.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/widget.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/button.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/sidebar.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/itemview.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/boxbar.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/slider.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/login.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:38, static void UiUtil::loadQss()): Loading QSS file: resources/qss/TopWindow.qss
+2019-05-30 09:27:26 - [DEBUG] (UiUtil.cpp:60, static void UiUtil::loadFonts()): Loading Font file: _font/云书法手书罗西硬笔行楷.ttf

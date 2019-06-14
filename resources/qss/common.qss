@@ -1,0 +1,23 @@
+QWidget {
+    font-family: "云书法手书罗西硬笔行楷";
+}
+
+.CentralWidget, .CentralWidget2 {
+    background: #80848f;
+}
+
+.WidgetsShower, .SettingWidget {
+    background: white;
+}
+
+.WidgetsShower #previewButton {
+    border-image: url(image/common/preview.png) 0;
+}
+
+.WidgetsShower #previewButton:hover {
+    border-image: url(image/common/preview-hover.png) 0;
+}
+
+.WidgetsShower #previewButton:pressed {
+    border-image: url(image/common/preview-pressed.png) 0;
+}
